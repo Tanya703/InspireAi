@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "InspireAI Chatbot",
+    "version": "1.0.0",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "images/light-bulb.png"
+      }
+    },
+    "permissions": [
+      "activeTab",
+      "scripting"
+    ],
+    "icons": {
+      "16": "images/light-bulb.png"
+    }
+  }
